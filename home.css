@@ -65,3 +65,15 @@
 li.nav-item {
     padding: 10px 20px;
 }
+
+.bg-keth {
+    background: url("../img/etec back.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
